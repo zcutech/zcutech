@@ -2,7 +2,7 @@
 - 👀 I’m interested in GUI developing, server backend developing.
 - 🌱 I’m currently learning C++ & Qt, Java and Computer Operating System.
 - 💞️ I’m looking to collaborate on ZMake
-- 📫 How to reach me zhqims@outlook.com
+- 📫 How to reach me: zhqims@outlook.com
 
 <!---
 zcutech/zcutech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
